@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @VijayRajKhadka
+- 👋I’m @VijayRajKhadka
 - 👀 I’m interested in Programming, Web Design and anything that I can take benefit of for my career..
 - 💞️ I’m looking to collaborate on anything that helps me improve and matches my time schedule.
 - 📫 How to reach me- You may contact me through mail for now (vijayrajkhadka0@gmail.com)<br/>
