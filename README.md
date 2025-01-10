@@ -1,3 +1,19 @@
+## Hi there 👋
+
+- 👋I’m @VijayRajKhadka
+- 👀 I’m interested in Programming, Web Design and anything that I can take benefit of for my career..
+- 💞️ I’m looking to collaborate on anything that helps me improve and matches my time schedule.
+- 📫 How to reach me- You may contact me through mail for now (vijayrajkhadka0@gmail.com)<br/>
+ 
+![](https://komarev.com/ghpvc/?username=VijayRajKhadka&color=orange)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayRajKhadka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=VijayRajKhadka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VijayRajKhadka&theme=dark&hide_border=false)<br/>
+
 
 <!-- Snake Contrib Graph -->
 <div align="center">
@@ -9,13 +25,12 @@
 
 ## :wrench: My Skills</h2></summary>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,nextjs,mysql,postgres,django,csharp,flutter,js,ts,c,cpp,html,css,php,md" alt="Programming Languages & Frameworks" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,lightning,huggingface,langchain,llamaindex,streamlit,django,flask,fastapi,nextjs,bootstrap,tailwind,laravel" alt="Frameworks & Libraries" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,sklearn,matplotlib,seaborn,opencv" alt="Data Science Tools" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,vscode,docker,wsl,ollama,octave,mysql,postgres" alt="Tools & Database" height="50"/> </br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vercel,googlemaps" alt="Styling & Deployment Tools" height="50"/> </br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,lucidchart,ae" alt="Extra Skills" height="50"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,react,nextjs,mysql,postgres,django,csharp,flutter,html,css,typescript,php" alt="Programming Languages & Frameworks" height="50"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,bootstrap,laravel,vercel" alt="Styling & Deployment Tools" height="50"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,googlemaps,huggingface" alt="AI & APIs" height="50"/> </br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github" alt="Tools" height="50"/>
 </div>
+
 
 </summary>
 
@@ -27,10 +42,8 @@
 <div align="left">
   
 ### :star2: Socials :rocket:
-[<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/shashin-mhrzn/)
-[<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>](https://www.kaggle.com/luluw8071)
+[<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](www.linkedin.com/in/vijay-raj-khadka)
 [<img width="35px" src="https://skillicons.dev/icons?i=discord"/>](https://discordapp.com/users/600529917977034753)
-[<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=x"/>](https://x.com/Luluw_Mhrzn)
-[<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:shashinmaharjan@gmail.com)
+[<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:vijayrajkhadka0@gmail.com)
 
 </div>
